@@ -28,7 +28,7 @@ AAirVehicle::AAirVehicle()
 
 	BaseSpeed = 100;
 	TurnRate = 1;
-	BrakingTurnRate = 3;
+	BrakingTurnRateMultiplier = 3;
 	TopSpeed = 300;
 }
 
